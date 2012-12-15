@@ -1,3 +1,5 @@
 .DS_Store
-
 *~.qtz
+
+# ignore large mask movies
+Sketches/MASKS/*.mov
