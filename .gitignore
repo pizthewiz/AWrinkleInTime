@@ -1,5 +1,8 @@
 .DS_Store
 *~.qtz
 
+# ignore source images
+Images
+
 # ignore large mask movies
 Sketches/MASKS/*.mov
